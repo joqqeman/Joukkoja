@@ -27,3 +27,11 @@ public class Koira extends Elain {
     
    
 }
+
+Error1:
+Nallen syömistä ei tulostettu. Tulostus oli:
+koira haukkuu
+Nalle syö
+
+Error2:
+Luokan Koira metodin syo pitäisi olla peritty. Nyt ei ollut.
