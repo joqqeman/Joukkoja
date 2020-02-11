@@ -1,0 +1,29 @@
+
+public class Koira extends Elain {
+    
+    private String nimi;
+    
+    public Koira() {
+        super("koira");
+    }
+    
+    public Koira(String nimi) {
+        super(nimi);
+    }
+    
+    public void hauku() {
+        System.out.println(super.getNimi() + " haukkuu");
+    }
+    
+    @Override
+    public void syo() {
+        super.syo();
+    }
+    
+    @Override
+    public void nuku() {
+        super.nuku();
+    }
+    
+   
+}
