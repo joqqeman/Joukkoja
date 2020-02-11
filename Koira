@@ -35,3 +35,5 @@ Nalle syö
 
 Error2:
 Luokan Koira metodin syo pitäisi olla peritty. Nyt ei ollut.
+
+Versio2 - poistan override-metodit, edelleenkään ei tulosta Nallen syömistä mutta perii metodit oikein, error1 säilyy, error2 ei.
